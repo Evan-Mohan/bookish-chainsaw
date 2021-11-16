@@ -1,8 +1,8 @@
-# Tips to protect your computer
+How to protect your computer
+
 [Article](https://support.microsoft.com/en-us/windows/keep-your-computer-secure-at-home-c348f24f-a4f0-de5d-9e4a-e0fc156ab221)
 
 - Use a firewall
-
 - Keep all software up to date
 - Make sure to turn on automatic updates
 - Use antivirus software and keep it current 
