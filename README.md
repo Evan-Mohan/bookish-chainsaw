@@ -18,3 +18,7 @@ fixed 6 zero day vulnerabilities, including:
 	- Allows a hacker to execute remote code on a client when they connect to a compromised server
 
 Thankfully, none of these effect regular, consumer users, but these are a threat to enterprise users and Win sysadmins (poor poor Win sysadmins).
+
+*Written by [Adrian Colaianni](https://colaianni,us)*
+
+[Check out what I can do!](https://github.com/AdrianColaianni/mdShowoff)
