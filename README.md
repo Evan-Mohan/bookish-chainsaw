@@ -1,4 +1,4 @@
-#REvil Random Arrest $6M Seizure, and $10M Reward
+##REvil Random Arrest $6M Seizure, and $10M Reward
 
 Krebs on security article found [here](https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/)
 
@@ -6,7 +6,7 @@ According to Krebs, the U.S. Department of Justive said today it arrested a Ukra
 
 This shows that the U.S. Government is stepping it up to catch hackers who use malware. They are also using their resources to ask fo civilian help to catch them. By offerinf a inticing of $10 million.
 
-How to protect your computer
+##How to protect your computer
 
 [Article](https://support.microsoft.com/en-us/windows/keep-your-computer-secure-at-home-c348f24f-a4f0-de5d-9e4a-e0fc156ab221)
 
